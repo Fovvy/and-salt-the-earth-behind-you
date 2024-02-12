@@ -271,7 +271,7 @@ button.btn-outline {
 
 .card-large#sup-cat,
 .card-med#sup-cat > .card-image {
-    background-image: url("blue.gif");
+    background-image: url("fweb.png");
     background-repeat: no-repeat; /* Prevent image repetition */
     background-size: cover; /* Make image cover the element */
 }
@@ -279,7 +279,7 @@ button.btn-outline {
 
 .card-large#sup-bird,
 .card-med#sup-bird > .card-image {
-    background-image: url("cloud.gif");
+    background-image: url("fcloud.png");
     background-repeat: no-repeat; /* Prevent image repetition */
     background-size: cover; /* Make image cover the element */
 }
